@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/pd-web/pd-web.iml" filepath="$PROJECT_DIR$/pd-web/pd-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-api/rabbitmq-api.iml" filepath="$PROJECT_DIR$/rabbitmq-api/rabbitmq-api.iml" />
     </modules>
   </component>
